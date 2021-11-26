@@ -4,7 +4,7 @@ This repository has links to all the projects I have completed.
 
 1. [Nutritional Product Lookup App (Ongoing)](<INSERT LINK HERE>)
 
-2. [BMI Calculator in iOS]
+2. [BMI Calculator in iOS]<git@github.com:Tselhacode/BMI_Calculator.git>
 
 3. [Cash Register in Android (Ongoing)](https://github.com/Tselhacode/CashRegisterProjectAssignmentTwo)
 
