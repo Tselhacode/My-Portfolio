@@ -2,7 +2,7 @@
 This repository has links to all the projects I have completed.
 
 
-1. [Nutritional Product Lookup App (Ongoing)](<INSERT LINK HERE>)
+1. [Nutritional Product Lookup App (Ongoing)](https://github.com/Tselhacode/Product-LookUp-App.git)
 
 2. [BMI Calculator in iOS](https://github.com/Tselhacode/BMI_Calculator.git)
 
