@@ -22,4 +22,3 @@ This repository has links to all the projects I have completed or I am currently
 
 11. [Martingale Betting Strategy Roulette Project](https://github.com/Tselhacode/Martingale-Betting-Strategy-Project)
 
-12. [WISECities in iOS] (Ongoing Volunteer Private Team Project)
